@@ -2,6 +2,7 @@
 #include<string.h>
 
 int main(){
+    
     //Declaração das variáveis
     char estado[2],estado2[2],codigo[4],codigo2[4],nome[50],nome2[50];
     int populacao = 0,populacao2 = 0,turismo = 0,turismo2 = 0;
